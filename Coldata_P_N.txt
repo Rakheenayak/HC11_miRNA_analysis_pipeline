@@ -1,0 +1,5 @@
+	Batch	Treatment
+N1	1	Normal
+N2	2	Normal
+P1	1	Primed
+P2	2	Primed

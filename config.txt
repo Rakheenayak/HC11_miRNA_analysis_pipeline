@@ -1,0 +1,1 @@
+NOA /Users/trinadhsornapudi/Desktop/RNAseq/miRNA/mirdeep2-0.1.2/miRNA_2019/N1.fastq

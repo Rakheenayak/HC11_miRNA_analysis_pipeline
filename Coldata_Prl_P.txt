@@ -1,0 +1,5 @@
+	Batch	Treatment
+P1	1	Primed
+P2	2	Primed
+Prl1	1	Prolactin
+Prl2	2	Prolactin
